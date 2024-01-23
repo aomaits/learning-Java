@@ -7,6 +7,8 @@ public class MyClass {
     
 }
 
+// ^^^  JAVA BASIC SYNTAX RULES  ^^^
+
 // 1. CLASS DECLARATION
     // The public keyword specifies that the class is accessible from anywhere in the program, promoting a modular and interactive coding environment.
 // 2. THE MAIN METHOD
