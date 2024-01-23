@@ -1,3 +1,5 @@
+import TabbyCat.Cat;
+
 public class Cat {
     // Using 'private' to restrict access to the properties from outside this class
     private String color;
