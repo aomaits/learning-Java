@@ -1,5 +1,9 @@
 package Cattributes;
 
+// Instance variables capture the essence of an object's state within a Java class. In the Cat class, the properties name and age are specific to each Cat object. Each Cat object has a unique identity. 
+
+// Encapsulation is employed by making the name and age variables private, which means they can't be accessed directly from outside the class. Instead, public getters and setters are provided to interact with these properties safely. This not only protects the data from being changed in unintended ways but also enables a controlled interface for other classes to interact w/ the Cat objects. 
+
 public class Cat {
     // Private instance variables, encapsulating the state of the Cat object
     private String name;

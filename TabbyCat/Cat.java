@@ -1,4 +1,8 @@
 package TabbyCat;
+
+// In the Cat class, void meow() and void scratch() are method signatures. Void indicates they don't return any value. Meow and scratch are the actions they perform. 
+
+
 public class Cat {
 
     // A method with no return value (void) that represents the cat's action of meowing
